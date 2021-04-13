@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Necro\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Necro\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Necro\.Rider2019.3\system\resharper-host\Local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="D:\Programming\Unity\Projects\Fallen Kingdom\Assets\Scripts" t="IncludeFlat" />
+  </component>
+</project>

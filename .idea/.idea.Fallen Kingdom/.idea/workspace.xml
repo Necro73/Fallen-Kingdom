@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9dbf007-f652-4f26-bd44-bbc60938394e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StandUnit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Arrow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StandUnits/Barricade.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Unit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovedUnits/Slime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveUnit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7F90ED7B-2CD3-4BC5-95F5-E9D084F29FE3/0b/fa47ffb4/Animator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapons/Weapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapons/Sword.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovedUnits/SkeletonArcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lib/Animancer/Internal/Editor/OptionalWarning.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Traps/Sprike.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BonusDmgMod.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lib/Animancer/Internal/Core/ClipState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/HealthBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TE.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/ManaBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/StaminaBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BonusDmgType.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sword.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Box.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spike.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sprike.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Barricade.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Slime.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StandUnits/Barricade.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/ManaBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/StaminaBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/HealthBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovedUnits/SkeletonArcher.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IncomingDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovedUnits/Slime.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Sword.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Unit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Arrow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoveUnit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StandUnit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Traps/Sprike.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TE.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BonusDamageHero.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BonusDmgMod.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BonusDmgType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/Weapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/Sword.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nyaQURegOUELVDwziShHOeRcgg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9dbf007-f652-4f26-bd44-bbc60938394e" name="Default Changelist" comment="" />
+      <created>1612364767809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612364767809</updated>
+      <workItem from="1612364771565" duration="30814000" />
+      <workItem from="1612530476550" duration="16178000" />
+      <workItem from="1612615171470" duration="701000" />
+      <workItem from="1612664264592" duration="2009000" />
+      <workItem from="1612750439525" duration="12751000" />
+      <workItem from="1612778034285" duration="18694000" />
+      <workItem from="1612837056829" duration="1356000" />
+      <workItem from="1612884213995" duration="8156000" />
+      <workItem from="1612971627238" duration="34649000" />
+      <workItem from="1613270459965" duration="2135000" />
+      <workItem from="1613399292061" duration="4349000" />
+      <workItem from="1613442811064" duration="1605000" />
+      <workItem from="1613448547169" duration="2250000" />
+      <workItem from="1613528861830" duration="19509000" />
+      <workItem from="1613651230207" duration="14784000" />
+      <workItem from="1613706083347" duration="3642000" />
+      <workItem from="1613711654994" duration="10067000" />
+      <workItem from="1613725312296" duration="4067000" />
+      <workItem from="1614133813107" duration="598000" />
+      <workItem from="1614238646093" duration="3745000" />
+      <workItem from="1614315891194" duration="8651000" />
+      <workItem from="1614779431360" duration="24386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="296" y="166" key="SettingsEditor" timestamp="1612364787788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="296" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612364787788" />
+    <state x="792" y="254" width="672" height="678" key="search.everywhere.popup" timestamp="1613534537043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="792" y="254" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1613534537043" />
+  </component>
+</project>
